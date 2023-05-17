@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 app.use(cors({
-    origin: 'https://capstone-project-3-tan.vercel.app/', 
+    origin: 'https://capstone-project-3-g9gyw6ihz-aqua-vault.vercel.app//', 
     credentials: true 
 }));
 
